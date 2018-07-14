@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f4b396d-8601-4a4b-a4e6-9e4b23106741" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1f4b396d-8601-4a4b-a4e6-9e4b23106741" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +65,7 @@
       <file leaf-file-name="BaseClient.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Kernel/BaseClient.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="87">
               <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
             </state>
           </provider>
@@ -262,12 +260,12 @@
       <workItem from="1527072323914" duration="11571000" />
       <workItem from="1528879839049" duration="97000" />
       <workItem from="1530005564854" duration="2570000" />
-      <workItem from="1531565940626" duration="213000" />
+      <workItem from="1531565940626" duration="534000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14451000" />
+    <option name="totallyTimeSpent" value="14772000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="100" y="31" width="1948" height="1009" extended-state="0" />
@@ -281,7 +279,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32894737" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.7916667" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -630,7 +628,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Kernel/BaseClient.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="87">
           <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
